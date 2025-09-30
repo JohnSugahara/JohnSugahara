@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="mailto:john.nunes@ges.inatel.br">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Outlook_2013-2019_logo.svg" width="40" height="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="40" height="40" style="color:#0078D4"/>
   </a>
 </p>
 
