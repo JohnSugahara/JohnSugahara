@@ -42,6 +42,6 @@
 ---
 
 <a href="https://github.com/JohnSugahara">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marceloalckmin&show_icons=true&theme=radical&hide_border=true"/>
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloalckmin&layout=compact&theme=radical&hide_border=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JohnSugahara&show_icons=true&theme=radical&hide_border=true"/>
+    <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSugahara&layout=compact&theme=radical&hide_border=true"/>
   </a>
