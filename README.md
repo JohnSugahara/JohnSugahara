@@ -9,14 +9,20 @@
     <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSugahara&layout=compact&theme=radical&hide_border=true"/>
   </a>
 
-- How to reach me: <a href="john.nunes@ges.inatel.br">
+
 
   
-## Connect with me:
+## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/john-sugahara-b53264232" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:john.nunes@ges.inatel.br">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
 </p>
 
