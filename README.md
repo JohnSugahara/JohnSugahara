@@ -9,13 +9,7 @@
     <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSugahara&layout=compact&theme=radical&hide_border=true"/>
   </a>
 
-## How to reach me:
-
-<p align="left">
-  <a href="mailto:john.nunes@ges.inatel.br">
-     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="40" height="40" style="color:#0078D4"/>
-  </a>
-</p>
+- How to reach me: <a href="john.nunes@ges.inatel.br">
 
   
 ## Connect with me:
