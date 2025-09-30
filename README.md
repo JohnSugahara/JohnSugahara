@@ -18,9 +18,6 @@
   <a href="https://www.linkedin.com/in/john-sugahara-b53264232" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-</p>
-
-<p align="left">
   <a href="mailto:john.nunes@ges.inatel.br">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
