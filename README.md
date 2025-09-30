@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="mailto:john.nunes@ges.inatel.br">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="40" height="40"/>
   </a>
 </p>
 
