@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I’m @JohnSugahara!
+#  Hi, I’m @JohnSugahara!
 
 ### I am pursuing a Bachelor’s degree in Software Engineering at Inatel.
 
