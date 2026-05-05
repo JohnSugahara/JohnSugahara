@@ -16,6 +16,5 @@ I am currently pursuing a degree in Software Engineering at Inatel.<br>I am work
 ![](https://github-profile-trophy.vercel.app/?username=JohnSugahara&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=JohnSugahara&icon=0&color=25)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=JohnSugahara&icon=0&color=0000ff)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
