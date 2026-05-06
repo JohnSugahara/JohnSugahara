@@ -1,5 +1,7 @@
 #  About Me:
-I am currently pursuing a degree in Software Engineering at Inatel.<br>I am working with Unity to develop a 3D graphical platform for visualizing signal propagation between an AP, UE, and RIS.<br>I am also currently learning Docker.
+ Software Engineering student at Inatel
+ Developing a 3D platform in Unity for visualizing signal propagation between Access Point (AP), User Equipment (UE), and Reconfigurable Intelligent Surfaces (RIS).
+ Currently learning Docker and improving skills in backend and system architecture.
 
 
 ##  How to reach me:
