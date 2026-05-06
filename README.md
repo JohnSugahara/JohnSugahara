@@ -9,6 +9,8 @@
   <img src="giphy.gif" width="200">
 </p>
 
+"Just a cool cube" ~ John Nunes Sugahara
+
 
 ##  How to reach me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnsugahara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-sugahara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:john.nunes@ges.inatel.br) 
