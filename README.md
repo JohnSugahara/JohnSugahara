@@ -9,7 +9,9 @@
   <img src="giphy.gif" width="200">
 </p>
 
-"Just a cool cube" ~ John Nunes Sugahara
+<p align="center">
+  <sub>Your sentence here</sub>
+</p>
 
 
 ##  How to reach me:
