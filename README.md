@@ -1,6 +1,8 @@
 #  About Me:
- Software Engineering student at Inatel
+ Software Engineering student at Inatel.
+ 
  Developing a 3D platform in Unity for visualizing signal propagation between Access Point (AP), User Equipment (UE), and Reconfigurable Intelligent Surfaces (RIS).
+ 
  Currently learning Docker and improving skills in backend and system architecture.
 
 
