@@ -5,6 +5,10 @@
  
  Currently learning Docker and improving skills in backend and system architecture.
 
+ <p align="center">
+  <img src="https://giphy.com/gifs/3d-cube-ascii-YPjYq9QA9SFG5jstsm" width="700">
+</p>
+
 
 ##  How to reach me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnsugahara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-sugahara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:john.nunes@ges.inatel.br) 
