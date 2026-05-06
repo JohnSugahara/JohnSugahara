@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <sub>Your sentence here</sub>
+  <sub>Just a cool cube ~ John Nunes Sugahara</sub>
 </p>
 
 
