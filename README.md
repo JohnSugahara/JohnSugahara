@@ -5,8 +5,8 @@
  
  Currently learning Docker and improving skills in backend and system architecture.
 
- <p align="center">
-  <img src="[https://giphy.com/gifs/3d-cube-ascii-YPjYq9QA9SFG5jstsm](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJzaDYwbmRjd2t1ZTh4bWZpNTVycGJraDVodm5uMWd5dzFqdmZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YPjYq9QA9SFG5jstsm/giphy.gif)" width="700">
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJzaDYwbmRjd2t1ZTh4bWZpNTVycGJraDVodm5uMWd5dzFqdmZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YPjYq9QA9SFG5jstsm/giphy.gif" width="400">
 </p>
 
 
