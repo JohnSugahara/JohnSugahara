@@ -30,4 +30,9 @@
 ---
 [![](https://komarev.com/ghpvc/?username=JohnSugahara&icon=0&color=0000ff)](https://visitcount.itsvg.in)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/JohnSugahara/count.svg" />
+</p>
+
 
