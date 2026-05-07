@@ -12,9 +12,9 @@
 <p align="center">
   <sub>Just a cool 4D object ~ John Nunes Sugahara</sub>
 </p>
-
-[![GitHub JohnSugahara](https://img.shields.io/github/followers/JohnSugahara?label=follow&style=social)](https://github.com/JohnSugahara)
-
+<p align="center">
+  [![GitHub JohnSugahara](https://img.shields.io/github/followers/JohnSugahara?label=follow&style=social)](https://github.com/JohnSugahara)
+</p>
 ##  How to reach me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnsugahara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-sugahara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:john.nunes@ges.inatel.br) 
 
@@ -29,9 +29,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=JohnSugahara&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-<p align="center"> 
- [![](https://komarev.com/ghpvc/?username=JohnSugahara&icon=0&color=0000ff)](https://visitcount.itsvg.in)
-</p>
+
+[![](https://komarev.com/ghpvc/?username=JohnSugahara&icon=0&color=0000ff)](https://visitcount.itsvg.in)
+
 
 
 
