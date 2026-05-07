@@ -1,5 +1,13 @@
+<div align="center">
+
 # Hello 👋, I'm John Nunes Sugahara!
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnsugahara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-sugahara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:john.nunes@ges.inatel.br) [![GitHub JohnSugahara](https://img.shields.io/github/followers/JohnSugahara?label=follow&style=social)](https://github.com/JohnSugahara)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnsugahara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-sugahara)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:john.nunes@ges.inatel.br)
+[![GitHub JohnSugahara](https://img.shields.io/github/followers/JohnSugahara?label=follow&style=social)](https://github.com/JohnSugahara)
+
+</div>
 ## 👤 About Me:
  Software Engineering student at Inatel.
  
