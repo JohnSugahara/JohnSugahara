@@ -1,3 +1,5 @@
+# Hello, I'm John Nunes Sugahara!
+
 #  About Me:
  Software Engineering student at Inatel.
  
