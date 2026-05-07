@@ -6,11 +6,11 @@
  Currently learning Docker and improving skills in backend and system architecture.
 
 <p align="center">
-  <img src="ascii_tesseract.gif" width="120">
+  <img src="ascii_tesseract_bold.gif" width="120">
 </p>
 
 <p align="center">
-  <sub>Just a cool cube ~ John Nunes Sugahara</sub>
+  <sub>Just a cool 4D object ~ John Nunes Sugahara</sub>
 </p>
 
 
