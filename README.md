@@ -6,7 +6,7 @@
  Currently learning Docker and improving skills in backend and system architecture.
 
 <p align="center">
-  <img src="ascii_tesseract_bold.gif" width="240">
+  <img src="ascii_tesseract_bold.gif" width="320">
 </p>
 
 <p align="center">
