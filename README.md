@@ -1,6 +1,5 @@
 # Hello, I'm John Nunes Sugahara!
-
-#  About Me:
+##  About Me:
  Software Engineering student at Inatel.
  
  Developing a 3D platform in Unity for visualizing signal propagation between Access Point (AP), User Equipment (UE), and Reconfigurable Intelligent Surfaces (RIS).
