@@ -4,6 +4,7 @@
  Developing a 3D platform in Unity for visualizing signal propagation between Access Point (AP), User Equipment (UE), and Reconfigurable Intelligent Surfaces (RIS).
  
  Currently learning Docker and improving skills in backend and system architecture.
+ 
  Follow me for more!   [![GitHub JohnSugahara](https://img.shields.io/github/followers/JohnSugahara?label=follow&style=social)](https://github.com/JohnSugahara)
 
 <p align="center">
