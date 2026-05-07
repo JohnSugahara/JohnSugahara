@@ -60,9 +60,11 @@
 
 ---
 
+<div align="center">
+
 [![](https://komarev.com/ghpvc/?username=JohnSugahara&icon=0&color=0000ff)](https://visitcount.itsvg.in)
 
-
+ </div>
 
 
 
