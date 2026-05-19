@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <sub>Just a cool 4D object ~ John Nunes Sugahara</sub>
+  <sub>Just a cool 4D object</sub>
 </p>
 
 <div align="center">
