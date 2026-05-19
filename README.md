@@ -21,7 +21,7 @@
  </div>
 
 <p align="center">
-  <img src="ascii_tesseract_bold-ezgif.com-crop (1).gif" width="160">
+  <img src="ascii_tesseract_bold-ezgif.com-crop (1).gif" width="290">
 </p>
 
 <p align="center">
