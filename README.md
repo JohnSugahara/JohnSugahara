@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JohnSugahara&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
- </div>
+</div>
 
 ---
 
