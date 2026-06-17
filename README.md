@@ -16,7 +16,7 @@
  
  Developing a 3D platform in Unity for visualizing signal propagation between Access Point (AP), User Equipment (UE), and Reconfigurable Intelligent Surfaces (RIS).
  
- Currently learning Docker and improving skills in backend, system architecture and Databricks.
+ Currently learning Docker and improving skills in backend, system architecture, Databricks and Splunk>.
 
  </div>
 
